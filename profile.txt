@@ -1,0 +1,67 @@
+Juichi Nishimura
+Electrical Engineering & VR/XR specialist
+LinkedIn: https://www.linkedin.com/in/juichi-nishimura-643b48253/
+Github: https://github.com/Juntendo11
+Youtube: https://www.youtube.com/@juntendo6104
+
+Skills
+Electronics
+Unity
+Blender
+C/C#
+Python
+
+Australian Research Centre for Interactive and Virtual Environments(IVE)
+Creating a production-ready XR experience that simulates Age-Related Macular Degeneration (AMD) through interactives and immersive storytelling.
+
+Empathic Computing Lab Internship
+Developing XR system that visualizes human emotional and physical states in real time using AI-driven body tracking and immersive particle effects.
+
+Liberty Neurotech
+Designed concept product design for neurotech helmet that detects user's fatiue.
+Developing VR simulations to evaluate fatigue-induced changes in attention and awareness
+
+Moglove: ESP32 based Mocap Glove with Machine Learning
+Machine trained model recognizes the gestures and enhances expressions.
+
+Doodle jump: Classic Doodle Jump in 3D
+Toon style modelling and shading techniques
+Game engine and algorithms from scratch in OpenGL
+Hand modelled to match the original experience
+Camera controls for dynamic gameplay
+
+OpenGL 3D Engine (Phong lighting)
+Ambient, diffuse, specular lighting using GLSL shader.
+
+Terminal 3D viewer
+Terminal based OpenGL 3D model viewer.
+
+Hand tracking in VR for stroke rehab
+Quest 3 hand tracking for stroke patient with hand impairement
+Combines Quest 3 and Leap motion controller tracking
+Correctly detects intended gestures, and displays in VR
+PCA and machine trained gesture recognition
+Unity VR visualisation using Meta API and Unity blendtree for display
+
+Haku
+Vocaloid Haku inspired character design
+
+Leopard
+Leopard from Gushing over magical girls
+Modelled in Blender, Substance Painter, and rendered in MMD
+
+Linie
+Anime-shaded Linie from Sousou no Frieren
+Modelled in Blender, Substance Painter, and composited in Shoost
+
+CheerlyPink
+3D resin print ready sculpt
+Sculpted in ZBrush and Blender
+
+Egyptian Bedroom (commissioned)
+Modelled photorealistic egyptian bedroom
+From Layout plan, AI concept to Environment modelling.
+
+Mocap studio
+Game-ready environment model
+Modelled in Blender and textured with Substance
